@@ -39,3 +39,12 @@ Learning and experimenting with NLP concepts.
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/a96b3252-3749-4c9e-becd-b56f5f419ca3)
+
+![Image](https://github.com/user-attachments/assets/c4028fcc-dc0b-41c4-b7b7-bd1b8571af7f)
+
+![Image](https://github.com/user-attachments/assets/282b6c10-0f1d-4c33-bcac-b1c35ecd9de0)
+
+![Image](https://github.com/user-attachments/assets/0a0f5de5-c96f-4eba-b6f0-0dd1d3e21c17)
+
+![Image](https://github.com/user-attachments/assets/da6cdb79-0527-4e5e-94f3-bf74e960bd70)
